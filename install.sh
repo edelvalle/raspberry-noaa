@@ -47,6 +47,7 @@ sudo apt install -yq predict \
                      cmake \
                      libusb-1.0 \
                      sox \
+		     libsox-fmt-mp3 \
                      at \
                      bc \
                      nginx \
